@@ -4,7 +4,7 @@ All the info and material about the certification that I've collected so far.
 ## Google has Updated their Courses and every other material below are very necessary to cover, the only new thing is Android Architecture Components.
 
 **Scrolldown to  the last page to see the Updated Materials**
-
+Construct a layout using XML or
 **Pull Requests are welcome!**
 
 #### Checkboxes
@@ -84,8 +84,8 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 ](https://codelabs.developers.google.com/codelabs/constraint-layout/#0)
   
 - [ ] Describe interactions between UI, background task, and data persistence
-- [ ] Construct a layout using XML or Java code
-  - [ ] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
+- [X] Construct a layout using XML or Java code
+  - [X] [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)
 - [ ] Create a custom view class and add it to a layout
   - [ ] [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
 - [ ] Implement a custom application theme
