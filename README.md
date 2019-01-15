@@ -38,7 +38,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [[Fragmented Podcast] Episode 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
   - [ ] [[Fragmented Podcast] Episode 7 Jake Wharton on Testing, SqlBrite, NotRxAndroid, RxJava and Much More](http://fragmentedpodcast.com/episodes/7/) 
   - [ ] Getting Started with Testing 
-    - [ ] [Android Developer Training][testing_and_debuggin_getting_started_testing]
+    - [x] [Android Developer Training][testing_and_debuggin_getting_started_testing]
     - [ ] [Udacity Course Software Testing][testing_and_debuggin_udacity_course]
     - [ ] [Treehouse Testing in Android Course][treehouse_testing_course]
   - [ ] [Bulding Effective Unit Tests][testing_and_debugging_building_effective_unit_test]
